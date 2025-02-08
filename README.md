@@ -1,1 +1,3 @@
-# jga
+# JGA
+
+## Schedule JGA
